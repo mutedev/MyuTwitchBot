@@ -12,11 +12,6 @@ A simple Twitch bot that can easily be configured.
 
 <br>
 
-# The Future
-Pretty soon I want to add the ability to have multiple responses per command and ahve the bot send only one of them at random!
-
-<br>
-
 # config.json example
 ```json
 {
