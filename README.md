@@ -7,6 +7,7 @@ A simple Twitch bot that can easily be configured.
 
 # Download
 [Version 1.0 - Initial Release](https://github.com/mutedev/MyuTwitchBot/releases/tag/1.0) <- Right here on GitHub
+
 [Version 1.1 - Random Response Commands](https://github.com/mutedev/MyuTwitchBot/releases/tag/1.1) <- Right here on GitHub
 
 <br>
