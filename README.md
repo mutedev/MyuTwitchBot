@@ -32,14 +32,12 @@ Pretty soon I want to add the ability to have multiple responses per command and
 # commands.json example
 ```json
 [
-    // This is a single response command and will return only one message
     {
         "Trigger": "!discord",
         "Responses": [ 
             "Invite to your Discord server :D"   
         ]
     },
-    // This is a multi response command and will return one of the responses at random
     {
         "Trigger": "!schedule",
         "Responses": [ 
